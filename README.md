@@ -2,8 +2,6 @@
 
 This is a **machine learning-based web app** for **heart disease prediction**. The app allows users to input medical details and predicts their risk using various ML models.
 
-![Heart Disease Prediction](heart.png)
-
 ## Problem:
 World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. 
 Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. 
